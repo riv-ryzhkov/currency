@@ -1,1 +1,5 @@
-Django==2.2.12 
+Django==2.2.12
+flake8==3.8.1
+flake8-builtins==1.5.3
+flake8-import-order==0.18.1
+flake8-print==3.1.4
