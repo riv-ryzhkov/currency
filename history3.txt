@@ -1,0 +1,500 @@
+   46  cd djangogirle
+   47  mkdir students
+   48  cd students
+   49  ls -la
+   50  python3 -m venv env
+   51  . env/bin/activate
+   52  python --version
+   53  pip install django
+   54  pip freeze
+   55  pip install django==2.2.11
+   56  pip check
+   57  pip freeze
+   58  pip freeze > requirements.txt
+   59  git init
+   60  git status
+   61  nano .gitignore
+   62  git status
+   63  git add --all
+   64  git commit -m "first commit"
+   65  git status
+   66  git log
+   67  git remote add origin https://github.com/riv-ryzhkov/students.git
+   68  git push -u origin master
+   69  mkdir src
+   70  cd src
+   71  pwd
+   72  django-admin startproject students .
+   73  ls
+   74  python manage.py ruserver
+   75  python manage.py runserver
+   76  python manage.py runserver 0:8000
+   77  python manage.py runserver 0.0.0.0::8000
+   78  python manage.py runserver 0.0.0.0:8000
+   79  git status
+   80  git status
+   81  pwd
+   82  python manage.py startapp students_app
+   83  python manage.py runserver 0.0.0.0:8000
+   84  python manage.py makemigrations
+   85  python manage.py migrate
+   86  python manage.py makemigrations
+   87  python manage.py makemigrations
+   88  python manage.py migrate
+   89  python manage.py shell
+   90  python manage.py ruserver
+   91  python manage.py runserver
+   92  git status
+   93  cd/
+   94  cd ..
+   95  ls
+   96  git init
+   97  pwd
+   98  ls
+   99  ls -la
+  100  nano .gitignore
+  101  disactivate
+  102  disactivate
+  103  deactivate
+  104  cd ..
+  105  mkdir test1
+  106  cd test1
+  107  git init
+  108  python3 -m venv env
+  109  . env/bin/activate
+  110  pip install django==2.2.11
+  111  pip freeze
+  112  pip freeze > requirements.txt
+  113  git init
+  114  git status
+  115  nano .ignore
+  116  git init
+  117  git init
+  118  git add README.md
+  119  git status
+  120  nano .gitignore
+  121  git status
+  122  nano .gitignore
+  123  git status
+  124  git add --all
+  125  git status
+  126  git commit -m "My first test 1"
+  127  git log
+  128  git remote add origin https://github.com/riv-ryzhkov/test1.git
+  129  git push -u origin master
+  130  git status
+  131  mkdir src
+  132  cd src
+  133  django-admin startproject students1
+  134  django-admin startproject students1 .
+  135  ls -la
+  136  python manage.py runserver
+  137  python manage.py runserver 0:8000
+  138  python manage.py runserver 0.0.0.0:8000
+  139  cd /
+  140  ls -la
+  141  cd users
+  142  ls -la
+  143  cd user
+  144  ls -la
+  145  django-admin mamage.py startproject teachers
+  146  django-admin startproject teachers
+  147  django-admin startproject groups
+  148  django-admin startproject teachers .
+  149  django-admin startproject groups .
+  150  django-admin startproject groups .
+  151  ls -la
+  152  cd students
+  153  ls -la
+  154  cd src
+  155  ls -la
+  156  django-admin startproject groups .
+  157  cd students
+  158  cd src
+  159  ls -la
+  160  pwd
+  161  cd ..
+  162  django-admin startproject groups .
+  163  cd ..
+  164  cd ..
+  165  mkdir teachers
+  166  cd teachers
+  167  mkdir src
+  168  cd src
+  169  django-admin startproject teachers .
+  170  python manage.py runserver
+  171  python manage.py runserver 0.0.0.0:8000
+  172  git status
+  173  git init
+  174  git status
+  175  ls -la
+  176  зцв
+  177  pwd
+  178  cd ..
+  179  cd ..
+  180  cd students
+  181  django-admin startproject teachers .
+  182  ls -la
+  183  cd src
+  184  django-admin startproject teachers .
+  185  pwd
+  186  cd ..
+  187  cd ..
+  188  ls -la
+  189  cd teachers
+  190  ls -la
+  191  deactivate
+  192  cd teachers
+  193  python3 -m venv env
+  194  . env/bin/activate
+  195  pip install django==2.2.11
+  196  git status
+  197  git init
+  198  git status
+  199  cd src
+  200  git status
+  201  pip freeze > requirements.txt
+  202  pip freeze
+  203  git status
+  204  deactivate
+  205  cd ..
+  206  pwd
+  207  cd /
+  208  pwd
+  209  cd users
+  210  ls -la
+  211  cd user
+  212  pwd
+  213  cd students
+  214  cd src
+  215  . env/bin/activate
+  216  . env/bin/activate .
+  217  cd ..
+  218  . env/bin/activate .
+  219  cd src
+  220  git status
+  221  django-admin startapp teahers .
+  222  ls -la
+  223  mkdir teachers
+  224  cd teachers
+  225  django-admin startapp teahers .
+  226  cd ..
+  227  cd teachers
+  228  ls -la
+  229  cd ..
+  230  mkdir groupes
+  231  cd groupes
+  232  django-admin startapp groupes .
+  233  python manage.py startapp groupes
+  234  cd ..
+  235  cd ..
+  236  cd students
+  237  cd src
+  238  python manage.py startapp groupes
+  239  python manage.py startapp teachers
+  240  python manage.py startapp teachers
+  241  cd ..pwd
+  242  pwd
+  243  python manage.py startapp teachers
+  244  python manage.py startapp teachers
+  245  python manage.py startapp groupes
+  246  python manage.py runserver 0.0.0.0:8000
+  247  python manage.py runserver 0.0.0.0:8000
+  248  python manage.py runserver 0.0.0.0:8000
+  249  python manage.py runserver 0.0.0.0:8000
+  250  python manage.py runserver 0.0.0.0:8000
+  251  python manage.py makemigrations
+  252  python manage.py migrate
+  253  python manage.py runserver 0.0.0.0:8000
+  254  python manage.py makemigrations
+  255  python manage.py migrate
+  256  python manage.py runserver 0.0.0.0:8000
+  257  python manage.py makemigrations
+  258  python manage.py makemigrations
+  259  python manage.py migrate
+  260  python manage.py makemigrations
+  261  python manage.py makemigrations
+  262  python manage.py migrate
+  263  pip instaal faker
+  264  pip install faker
+  265  python manage.py runserver 0.0.0.0:8000
+  266  git status
+  267  pwd
+  268  git add --all
+  269  git status
+  270  git commit -m 'Home work 3-04-20'
+  271  git status
+  272  git push -u original master
+  273  git init
+  274  git add --all
+  275  git status
+  276  git commit -u 'Hw 3-04-20'
+  277  git commit -u "Hw 3-04-20"
+  278  git commit -u "Hw"
+  279  git commit -u --all 'Hw'
+  280  git add --all
+  281  git status
+  282  git commit -m 'Hw 3-04-20'
+  283  git remote add origin https://github.com/riv-ryzhkov/HW-03-04-20.git
+  284  git push -u origin master
+  285  python manage.py runserver 0.0.0.0:8000
+  286  git add --all
+  287  git status
+  288  git commit -m 'Hw 3-04-20'
+  289  git push -u origin master
+  290  cd flask_app
+  291  python3 -m vevn evn
+  292  whoami
+  293  source evn/bin/activate
+  294  ls
+  295  cd evn
+  296  ls
+  297  cd /
+  298  ls
+  299  cd students
+  300  ls
+  301  ls -la
+  302  ls
+  303  cd 
+  304  pwd
+  305  cd students
+  306  ls
+  307  cd env
+  308  pwd
+  309  cd src
+  310  ls
+  311  cd ..
+  312  ls
+  313  cd src
+  314  ifconfig
+  315  cd..
+  316  cd .
+  317  cd/
+  318  cd /
+  319  cd test1
+  320  ls
+  321  ls -la
+  322  pwd
+  323  cd users
+  324  ls -la
+  325  cd user
+  326  ls -la
+  327  cd test1
+  328  cd src
+  329  ls -la
+  330  ifconfig
+  331  sudo apt install net-tools
+  332  sudo apt install net-tools
+  333  ifconfig
+  334  ifconfig
+  335  ifconfig
+  336  sudo app install net-tools
+  337  sudo apt install net-tools
+  338  ifconfig
+  339  python manage.py runserver
+  340  cd ..
+  341  . env/binactivate
+  342  . env/bin/activate
+  343  pithin manage.py shell_plus
+  344  pithon manage.py shell_plus
+  345  python manage.py shell_plus
+  346  cd src
+  347  python manage.py shell_plus
+  348  python manage.py shell_plus
+  349  python manage.py shell
+  350  python manage.py shell_plus
+  351  python manage.py runserver
+  352  python manage.py runserver
+  353  git inint
+  354  git init
+  355  git status
+  356  git status
+  357  git init
+  358  git status
+  359  git add --all
+  360  git status
+  361  git commit -m "a lot"
+  362  git status
+  363  python manage.py runserver 
+  364  python manage.py runserver 0.0.0.0:8000
+  365  python manage.py runserver 0.0.0.0:8000
+  366  pwd
+  367  cd ..
+  368  cd ..
+  369  pwd
+  370  cd students
+  371  cd src
+  372  pwd
+  373  python manage.py runserver
+  374  pwd
+  375  exit
+  376  python manage.py runserver
+  377  git init
+  378  . env/bin/activate
+  379  pwd
+  380  ls -la
+  381  cd ..
+  382  . env/bin/activate
+  383  cd src
+  384  python manage.py runserver
+  385  git init
+  386  git status
+  387  git add --all
+  388  git status
+  389  git commit -m 'homework 11-04-20'
+  390  git push origin master
+  391  git status
+  392  pwd
+  393  cd ..
+  394  . env/bin/activate
+  395  python manage.py runserver
+  396  ls -la
+  397  cd src
+  398  ls -la
+  399  python manage.py runserver
+  400  python manage.py runserver
+  401  python manage.py runserver
+  402  get status
+  403  git add --all
+  404  get status
+  405  git commit -m 'HW'
+  406  get status
+  407  git push origin master
+  408  python manage.py migration
+  409  python manage.py migrations
+  410  cd .
+  411  cd ..
+  412  python ./src/manage.py migrations
+  413  python ./src/manage.py makemigrations
+  414  python ./src/groupes/manage.py makemigrations
+  415  python ./src/manage.py makemigrations
+  416  ./src/manage.py migrations
+  417  ./src/manage.py makemigrations
+  418  ./src/manage.py migrate
+  419  cd src
+  420  cd groups
+  421  cd group
+  422  ls -la
+  423  cd groupes
+  424  ./src/manage.py makemigrations
+  425  cd ..
+  426  cd ..
+  427  ./src/manage.py makemigrations
+  428  ./src/manage.py migrate
+  429  ./src/manage.py makemigrations
+  430  ./src/manage.py migrate
+  431  python manage.py runserver
+  432  cd src
+  433  python manage.py runserver
+  434  ./src/manage.py makemigrations
+  435  cd ..
+  436  ./src/manage.py makemigrations
+  437  ./src/manage.py migrate
+  438  python manage.py runserver
+  439  cd src
+  440  python manage.py runserver
+  441  ./manage.py makemigrations
+  442  ./manage.py makemigrations
+  443  cd ..
+  444  ./src/manage.py makemigrations
+  445  ./src/manage.py migrate
+  446  python manage.py runserver
+  447  python src/manage.py runserver
+  448  python ./src/manage.py runserver
+  449  python ./src/manage.py runserver
+  450  . env/activate
+  451  cd ..
+  452  . env/activate
+  453  pwd
+  454  . env/bin/activate
+  455  python ./src/manage.py shell
+  456  python ./src/manage.py shell plus
+  457  python ./src/manage.py shell_plus
+  458  python ./src/manage.py runserver
+  459  .env/bin/activate
+  460  ./env/bin/activate
+  461  python ./src/manage.py runserver
+  462  python ./env/bin/activate
+  463  python .env/bin/activate
+  464  git push origin master
+  465  ./env/bin/activate
+  466  ./env/bin/activate
+  467  ls -la
+  468  cd env
+  469  ls -la
+  470  cd bin
+  471  ls -la
+  472  cd..
+  473  cd ..
+  474  cd ..
+  475  python ./env/bin/activate
+  476  ./env/bin/activate
+  477  . env/bin/activate
+  478  python src/manage.py makemigrations
+  479  python src/manage.py makemigrations students --empty
+  480  python src/manage.py makemigrations teachers --empty
+  481  python src/manage.py migrate teachers
+  482  python src/manage.py migrate teachers 0003
+  483  python src/manage.py makemigrations teachers
+  484  python src/manage.py migrate teachers
+  485  python src/manage.py shell_plus --print-sql
+  486  python src/manage.py shell_plus --print-sql
+  487  python src/manage.py shell_plus --print-sql
+  488  python src/manage.py shell_plus --print-sql
+  489  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  490  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  491  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  492  sudo
+  493  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  494  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  495  sudo
+  496  sudo apt-get update
+  497  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  498  exit
+  499  '/Applications/Postgres.app/Contents/Versions/10/bin'/psql -p5432
+  500  cd students
+  501  python ./env/bin/activate
+  502  python . /env/bin/activate
+  503  . /env/bin/activate
+  504  ./env/bin/activate
+  505  cd src
+  506  ./env/bin/activate
+  507  ps aux | grep 'celery'
+  508  ps aux | grep 'celery'
+  509  git add --all
+  510  git status
+  511  python manage.py makekigrations
+  512  python manage.py makekigrations
+  513  cd ..
+  514  python src/manage.py makekigrations
+  515  python src/manage.py makemigrations
+  516  python /src/manage.py makemigrations
+  517  python src/manage.py makemigrations
+  518  ./env/bin/activate
+  519  . env/bin/activate
+  520  python src/manage.py runserver
+  521  python src/manage.py runserver
+  522  python src/manage.py runserver
+  523  git add --all
+  524  git commit -m 'hw8-05'
+  525  git status
+  526  git add --all
+  527  git status
+  528  git push origin master
+  529  git push origin master
+  530  python src/manage.py runserver
+  531  python src/manage.py runserver
+  532  python src/manage.py runserver
+  533  cd ..
+  534  cd ..
+  535  deactivate
+  536  . env/bin/activate
+  537  ды -дф
+  538  ls -la
+  539  cd user
+  540  ls -la
+  541  cd currency
+  542  ls -la
+  543  . env/bin/activate
+  544  history
+  545  history > history3.txt

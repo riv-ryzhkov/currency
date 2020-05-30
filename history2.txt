@@ -1,0 +1,500 @@
+   93  git status
+   94  cd/
+   95  cd ..
+   96  ls
+   97  git init
+   98  pwd
+   99  ls
+  100  ls -la
+  101  nano .gitignore
+  102  disactivate
+  103  disactivate
+  104  deactivate
+  105  cd ..
+  106  mkdir test1
+  107  cd test1
+  108  git init
+  109  python3 -m venv env
+  110  . env/bin/activate
+  111  pip install django==2.2.11
+  112  pip freeze
+  113  pip freeze > requirements.txt
+  114  git init
+  115  git status
+  116  nano .ignore
+  117  git init
+  118  git init
+  119  git add README.md
+  120  git status
+  121  nano .gitignore
+  122  git status
+  123  nano .gitignore
+  124  git status
+  125  git add --all
+  126  git status
+  127  git commit -m "My first test 1"
+  128  git log
+  129  git remote add origin https://github.com/riv-ryzhkov/test1.git
+  130  git push -u origin master
+  131  git status
+  132  mkdir src
+  133  cd src
+  134  django-admin startproject students1
+  135  django-admin startproject students1 .
+  136  ls -la
+  137  python manage.py runserver
+  138  python manage.py runserver 0:8000
+  139  python manage.py runserver 0.0.0.0:8000
+  140  cd /
+  141  ls -la
+  142  cd users
+  143  ls -la
+  144  cd user
+  145  ls -la
+  146  django-admin mamage.py startproject teachers
+  147  django-admin startproject teachers
+  148  django-admin startproject groups
+  149  django-admin startproject teachers .
+  150  django-admin startproject groups .
+  151  django-admin startproject groups .
+  152  ls -la
+  153  cd students
+  154  ls -la
+  155  cd src
+  156  ls -la
+  157  django-admin startproject groups .
+  158  cd students
+  159  cd src
+  160  ls -la
+  161  pwd
+  162  cd ..
+  163  django-admin startproject groups .
+  164  cd ..
+  165  cd ..
+  166  mkdir teachers
+  167  cd teachers
+  168  mkdir src
+  169  cd src
+  170  django-admin startproject teachers .
+  171  python manage.py runserver
+  172  python manage.py runserver 0.0.0.0:8000
+  173  git status
+  174  git init
+  175  git status
+  176  ls -la
+  177  зцв
+  178  pwd
+  179  cd ..
+  180  cd ..
+  181  cd students
+  182  django-admin startproject teachers .
+  183  ls -la
+  184  cd src
+  185  django-admin startproject teachers .
+  186  pwd
+  187  cd ..
+  188  cd ..
+  189  ls -la
+  190  cd teachers
+  191  ls -la
+  192  deactivate
+  193  cd teachers
+  194  python3 -m venv env
+  195  . env/bin/activate
+  196  pip install django==2.2.11
+  197  git status
+  198  git init
+  199  git status
+  200  cd src
+  201  git status
+  202  pip freeze > requirements.txt
+  203  pip freeze
+  204  git status
+  205  deactivate
+  206  cd ..
+  207  pwd
+  208  cd /
+  209  pwd
+  210  cd users
+  211  ls -la
+  212  cd user
+  213  pwd
+  214  cd students
+  215  cd src
+  216  . env/bin/activate
+  217  . env/bin/activate .
+  218  cd ..
+  219  . env/bin/activate .
+  220  cd src
+  221  git status
+  222  django-admin startapp teahers .
+  223  ls -la
+  224  mkdir teachers
+  225  cd teachers
+  226  django-admin startapp teahers .
+  227  cd ..
+  228  cd teachers
+  229  ls -la
+  230  cd ..
+  231  mkdir groupes
+  232  cd groupes
+  233  django-admin startapp groupes .
+  234  python manage.py startapp groupes
+  235  cd ..
+  236  cd ..
+  237  cd students
+  238  cd src
+  239  python manage.py startapp groupes
+  240  python manage.py startapp teachers
+  241  python manage.py startapp teachers
+  242  cd ..pwd
+  243  pwd
+  244  python manage.py startapp teachers
+  245  python manage.py startapp teachers
+  246  python manage.py startapp groupes
+  247  python manage.py runserver 0.0.0.0:8000
+  248  python manage.py runserver 0.0.0.0:8000
+  249  python manage.py runserver 0.0.0.0:8000
+  250  python manage.py runserver 0.0.0.0:8000
+  251  python manage.py runserver 0.0.0.0:8000
+  252  python manage.py makemigrations
+  253  python manage.py migrate
+  254  python manage.py runserver 0.0.0.0:8000
+  255  python manage.py makemigrations
+  256  python manage.py migrate
+  257  python manage.py runserver 0.0.0.0:8000
+  258  python manage.py makemigrations
+  259  python manage.py makemigrations
+  260  python manage.py migrate
+  261  python manage.py makemigrations
+  262  python manage.py makemigrations
+  263  python manage.py migrate
+  264  pip instaal faker
+  265  pip install faker
+  266  python manage.py runserver 0.0.0.0:8000
+  267  git status
+  268  pwd
+  269  git add --all
+  270  git status
+  271  git commit -m 'Home work 3-04-20'
+  272  git status
+  273  git push -u original master
+  274  git init
+  275  git add --all
+  276  git status
+  277  git commit -u 'Hw 3-04-20'
+  278  git commit -u "Hw 3-04-20"
+  279  git commit -u "Hw"
+  280  git commit -u --all 'Hw'
+  281  git add --all
+  282  git status
+  283  git commit -m 'Hw 3-04-20'
+  284  git remote add origin https://github.com/riv-ryzhkov/HW-03-04-20.git
+  285  git push -u origin master
+  286  python manage.py runserver 0.0.0.0:8000
+  287  git add --all
+  288  git status
+  289  git commit -m 'Hw 3-04-20'
+  290  git push -u origin master
+  291  cd flask_app
+  292  python3 -m vevn evn
+  293  whoami
+  294  source evn/bin/activate
+  295  ls
+  296  cd evn
+  297  ls
+  298  cd /
+  299  ls
+  300  cd students
+  301  ls
+  302  ls -la
+  303  ls
+  304  cd 
+  305  pwd
+  306  cd students
+  307  ls
+  308  cd env
+  309  pwd
+  310  cd src
+  311  ls
+  312  cd ..
+  313  ls
+  314  cd src
+  315  ifconfig
+  316  cd..
+  317  cd .
+  318  cd/
+  319  cd /
+  320  cd test1
+  321  ls
+  322  ls -la
+  323  pwd
+  324  cd users
+  325  ls -la
+  326  cd user
+  327  ls -la
+  328  cd test1
+  329  cd src
+  330  ls -la
+  331  ifconfig
+  332  sudo apt install net-tools
+  333  sudo apt install net-tools
+  334  ifconfig
+  335  ifconfig
+  336  ifconfig
+  337  sudo app install net-tools
+  338  sudo apt install net-tools
+  339  ifconfig
+  340  python manage.py runserver
+  341  cd ..
+  342  . env/binactivate
+  343  . env/bin/activate
+  344  pithin manage.py shell_plus
+  345  pithon manage.py shell_plus
+  346  python manage.py shell_plus
+  347  cd src
+  348  python manage.py shell_plus
+  349  python manage.py shell_plus
+  350  python manage.py shell
+  351  python manage.py shell_plus
+  352  python manage.py runserver
+  353  python manage.py runserver
+  354  git inint
+  355  git init
+  356  git status
+  357  git status
+  358  git init
+  359  git status
+  360  git add --all
+  361  git status
+  362  git commit -m "a lot"
+  363  git status
+  364  python manage.py runserver 
+  365  python manage.py runserver 0.0.0.0:8000
+  366  python manage.py runserver 0.0.0.0:8000
+  367  pwd
+  368  cd ..
+  369  cd ..
+  370  pwd
+  371  cd students
+  372  cd src
+  373  pwd
+  374  python manage.py runserver
+  375  pwd
+  376  exit
+  377  python manage.py runserver
+  378  git init
+  379  . env/bin/activate
+  380  pwd
+  381  ls -la
+  382  cd ..
+  383  . env/bin/activate
+  384  cd src
+  385  python manage.py runserver
+  386  git init
+  387  git status
+  388  git add --all
+  389  git status
+  390  git commit -m 'homework 11-04-20'
+  391  git push origin master
+  392  git status
+  393  pwd
+  394  cd ..
+  395  . env/bin/activate
+  396  python manage.py runserver
+  397  ls -la
+  398  cd src
+  399  ls -la
+  400  python manage.py runserver
+  401  python manage.py runserver
+  402  python manage.py runserver
+  403  get status
+  404  git add --all
+  405  get status
+  406  git commit -m 'HW'
+  407  get status
+  408  git push origin master
+  409  python manage.py migration
+  410  python manage.py migrations
+  411  cd .
+  412  cd ..
+  413  python ./src/manage.py migrations
+  414  python ./src/manage.py makemigrations
+  415  python ./src/groupes/manage.py makemigrations
+  416  python ./src/manage.py makemigrations
+  417  ./src/manage.py migrations
+  418  ./src/manage.py makemigrations
+  419  ./src/manage.py migrate
+  420  cd src
+  421  cd groups
+  422  cd group
+  423  ls -la
+  424  cd groupes
+  425  ./src/manage.py makemigrations
+  426  cd ..
+  427  cd ..
+  428  ./src/manage.py makemigrations
+  429  ./src/manage.py migrate
+  430  ./src/manage.py makemigrations
+  431  ./src/manage.py migrate
+  432  python manage.py runserver
+  433  cd src
+  434  python manage.py runserver
+  435  ./src/manage.py makemigrations
+  436  cd ..
+  437  ./src/manage.py makemigrations
+  438  ./src/manage.py migrate
+  439  python manage.py runserver
+  440  cd src
+  441  python manage.py runserver
+  442  ./manage.py makemigrations
+  443  ./manage.py makemigrations
+  444  cd ..
+  445  ./src/manage.py makemigrations
+  446  ./src/manage.py migrate
+  447  python manage.py runserver
+  448  python src/manage.py runserver
+  449  python ./src/manage.py runserver
+  450  python ./src/manage.py runserver
+  451  . env/activate
+  452  cd ..
+  453  . env/activate
+  454  pwd
+  455  . env/bin/activate
+  456  python ./src/manage.py shell
+  457  python ./src/manage.py shell plus
+  458  python ./src/manage.py shell_plus
+  459  python ./src/manage.py runserver
+  460  .env/bin/activate
+  461  ./env/bin/activate
+  462  python ./src/manage.py runserver
+  463  python ./env/bin/activate
+  464  python .env/bin/activate
+  465  git push origin master
+  466  ./env/bin/activate
+  467  ./env/bin/activate
+  468  ls -la
+  469  cd env
+  470  ls -la
+  471  cd bin
+  472  ls -la
+  473  cd..
+  474  cd ..
+  475  cd ..
+  476  python ./env/bin/activate
+  477  ./env/bin/activate
+  478  . env/bin/activate
+  479  python src/manage.py makemigrations
+  480  python src/manage.py makemigrations students --empty
+  481  python src/manage.py makemigrations teachers --empty
+  482  python src/manage.py migrate teachers
+  483  python src/manage.py migrate teachers 0003
+  484  python src/manage.py makemigrations teachers
+  485  python src/manage.py migrate teachers
+  486  python src/manage.py shell_plus --print-sql
+  487  python src/manage.py shell_plus --print-sql
+  488  python src/manage.py shell_plus --print-sql
+  489  python src/manage.py shell_plus --print-sql
+  490  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  491  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  492  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  493  sudo
+  494  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib nginx
+  495  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  496  sudo
+  497  sudo apt-get update
+  498  sudo apt-get install python3-pip python3-dev libpq-dev postgresql postgresql-contrib
+  499  exit
+  500  '/Applications/Postgres.app/Contents/Versions/10/bin'/psql -p5432
+  501  . env/bin/activate
+  502  pip install django-silk
+  503  ./env/bin/activate
+  504  ls -la
+  505  cd students
+  506  ./env/bin/activate
+  507  . env/bin/activate
+  508  pip install django-silk
+  509  python src/manage.py makemigrations
+  510  python src/manage.py migrate
+  511  python src/manage.py collectstatic
+  512  python src/manage.py collectstatic
+  513  python src/manage.py collectstatic
+  514  python src/manage.py migrate
+  515  git push origin master
+  516  git add --all
+  517  git commit -m 'message'
+  518  git push origin master
+  519  python src/manage.py makemigrations
+  520  python src/manage.py migrate
+  521  python src/manage.py makemigrations
+  522  python src/manage.py migrate
+  523  python src/manage.py makemigrations
+  524  python src/manage.py migrate
+  525  python src/manage.py makemigrations
+  526  python src/manage.py migrate
+  527  python src/manage.py makemigrations
+  528  python src/manage.py migrate
+  529  python src/manage.py makemigrations teachers
+  530  python src/manage.py makemigrations
+  531  python src/manage.py migrate
+  532  python src/manage.py makemigrations
+  533  python src/manage.py migrate
+  534  python src/manage.py makemigrations
+  535  python src/manage.py migrate
+  536  python src/manage.py makemigrations
+  537  python src/manage.py migrate
+  538  python src/manage.py makemigrations
+  539  python src/manage.py migrate
+  540  python src/manage.py makemigrations
+  541  python src/manage.py makemigrations
+  542  python src/manage.py migrate
+  543  python src/manage.py makemigrations
+  544  python src/manage.py migrate
+  545  sudo service rabbitemq-server status
+  546  sudo service rabbitmq-server status
+  547  sudo
+  548  pip install Celery
+  549  pip freeze > requirements.txt
+  550  cd src
+  551  celery -A students worker -l info
+  552  celery -A students worker -l info
+  553  celery -A students worker -l info
+  554  celery -A students worker -l info
+  555  celery -A students worker -l info
+  556  celery -A students worker -l info
+  557  celery -A students worker -l info
+  558* celery -A students worker -l inf
+  559  celery -A students worker -l info
+  560  celery -A students worker -l info
+  561  celery -A students worker -l info
+  562  celery -A students worker -l info
+  563  celery -A students worker -l info
+  564  celery -A students worker -l info
+  565* activate
+  566  ls -la
+  567  cd ..
+  568  ls -la
+  569  cd ..
+  570  ls -la
+  571  cd currency
+  572  . env/bin/activate
+  573  celery -A students worker -l info
+  574  pip install -r requirements.txt
+  575  flake8 ./src/
+  576  ls -la
+  577  flake8 ./src/
+  578  ls -la
+  579  .flake8 ./src/
+  580  flake8 ./src/
+  581  flake8 ./src/
+  582  flake8 ./env/
+  583  flake8
+  584  flake8 ./src/
+  585  python3 -m pip install flake8
+  586  flake8 ./src/
+  587  git add --all
+  588  git status
+  589  git commit -m "flak8 test"
+  590  git push origin master
+  591  history
+  592  history > history2.txt
