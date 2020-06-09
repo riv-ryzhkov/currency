@@ -1,4 +1,8 @@
-from django.shortcuts import render
+from django.views.generic import ListView
 
-# Create your views here.
+from rate.models import Rate
 
+
+class RateListView(ListView):
+    template_name = 'rate-list.html'
+    queryset = Rate.objects.all()

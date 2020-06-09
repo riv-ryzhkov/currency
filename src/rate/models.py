@@ -1,8 +1,7 @@
 from django.db import models
 
-from rate.utils import to_decimal
-
 from rate import model_choices as mch
+from rate.utils import to_decimal
 
 
 class Rate(models.Model):

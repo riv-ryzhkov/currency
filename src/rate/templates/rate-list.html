@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+
+
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Created</th>
+      <th scope="col">Source</th>
+      <th scope="col">Currency</th>
+      <th scope="col">Sale</th>
+      <th scope="col">Buy</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for obj in object_list %}
+    <tr>
+      <td>{{ obj.id }}</td>
+      <td>{{ obj.created }}</td>
+      <td>{{ obj.get_source_display }}</td>
+      <td>{{ obj.get_currency_display }}</td>
+      <td>{{ obj.sale }}</td>
+      <td>{{ obj.buy }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock content %}
