@@ -25,6 +25,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     'django_extensions',
     'debug_toolbar',
     # 'celery',
@@ -110,6 +111,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+AUTH_USER_MODEL = 'account.User'
 
 CELERY_BROKER_URL = 'amqp://localhost'
 
